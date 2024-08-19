@@ -7,6 +7,12 @@ print ("hello world")
 library(dlyr)
 mtcards |> filter(mpg > 20)
 
+### liar t check off
+- List item 1
+- List item 2
+
 - [ ] list iterm 1
 - [ ]  list item 2
 - [ ] list item3
+
+[(image of Scubacat](htps://octodex.gitub.com/images/scubacat.jpg)
