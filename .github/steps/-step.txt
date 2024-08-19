@@ -7,3 +7,6 @@ print ("hello world")
 library(dlyr)
 mtcards |> filter(mpg > 20)
 
+- [ ] list iterm 1
+- [ ]  list item 2
+- [ ] list item3
